@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Homeonline-QA-Library</name>
+   <tag></tag>
+   <UUID>08709852-1f09-4492-b318-40b70dac3f2f</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
